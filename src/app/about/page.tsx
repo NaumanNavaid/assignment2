@@ -6,7 +6,7 @@ return(
 <div>
     <Header />
      <h1>About Us</h1>
-    <p>This is the about page where we talk about our company.</p>
+    <p>This is the about page where we talk about the courses for alevels.</p>
      <Footer />
 </div>
 
